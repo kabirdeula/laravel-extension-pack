@@ -1,8 +1,8 @@
 {
   "name": "extension-pack-for-laravel",
   "displayName": "Laravel Extension Pack for Developers",
-  "description": "",
-  "version": "0.0.2",
+  "description": "Includes extension for Laravel Web Devlopment App.",
+  "version": "0.0.3",
   "publisher": "KabirDeula",
   "engines": {
     "vscode": "^1.76.0"

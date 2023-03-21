@@ -32,11 +32,14 @@
 
 [<img src="https://img.shields.io/badge/-Minify-171616?style=for-the-badge&logo=css3&logoColor=000&labelColor=1572B6">][website15]
 
-[<img src="https://img.shields.io/badge/-PHP%20Debug-171616?style=for-the-badge&logo=php&logoColor=000&labelColor=777BB4">][website16]
+[<img src="https://img.shields.io/badge/-MySQL-171616?style=for-the-badge&logo=mysql&logoColor=000&labelColor=4479A1">][website16]
 
-[<img src="https://img.shields.io/badge/-PHP Intelephense-171616?style=for-the-badge&logo=php&logoColor=000&labelColor=777BB4">][website17]
 
-[<img src="https://img.shields.io/badge/-PHP Namespace Resolver-171616?style=for-the-badge&logo=php&logoColor=000&labelColor=777BB4">][website18]
+[<img src="https://img.shields.io/badge/-PHP%20Debug-171616?style=for-the-badge&logo=php&logoColor=000&labelColor=777BB4">][website17]
+
+[<img src="https://img.shields.io/badge/-PHP Intelephense-171616?style=for-the-badge&logo=php&logoColor=000&labelColor=777BB4">][website18]
+
+[<img src="https://img.shields.io/badge/-PHP Namespace Resolver-171616?style=for-the-badge&logo=php&logoColor=000&labelColor=777BB4">][website19]
 
 [website1]: https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv
 [website2]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
@@ -53,6 +56,7 @@
 [website13]: https://marketplace.visualstudio.com/items?itemName=mohamedbenhida.laravel-intellisense
 [website14]: https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel5-snippets
 [website15]: https://marketplace.visualstudio.com/items?itemName=HookyQR.minify
-[website16]: https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug
-[website17]: https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client
-[website18]: https://marketplace.visualstudio.com/items?itemName=MehediDracula.php-namespace-resolver
+[website16]: https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2
+[website17]: https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug
+[website18]: https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client
+[website19]: https://marketplace.visualstudio.com/items?itemName=MehediDracula.php-namespace-resolver

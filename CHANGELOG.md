@@ -1,9 +1,11 @@
-# Change Log
+## 0.0.3
 
-All notable changes to the "laravel-extension-pack" extension pack will be documented in this file.
+- added MySQL extension.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 0.0.2
 
-## [Unreleased]
+- added PHP extensions
+
+## 0.0.1
 
 - Initial release
