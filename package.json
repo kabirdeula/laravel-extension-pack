@@ -1,0 +1,31 @@
+{
+  "name": "laravel-extension-pack",
+  "displayName": "laravel-extension-pack",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "onecentlin.laravel-blade",
+    "onecentlin.laravel5-snippets",
+    "ryannaddy.laravel-artisans",
+    "codingyu.laravel-goto-view",
+    "amiralizadeh9480.laravel-extra-intellisense",
+    "mikestead.dotenv",
+    "EditorConfig.EditorConfig",
+    "naoray.laravel-goto-components",
+    "shufo.vscode-blade-formatter",
+    "glitchbl.laravel-create-view",
+    "IHunte.laravel-blade-wrapper",
+    "austenc.laravel-blade-spacer",
+    "mohamedbenhida.laravel-intellisense",
+    "HookyQR.minify",
+    "xdebug.php-debug",
+    "bmewburn.vscode-intelephense-client",
+    "MehediDracula.php-namespace-resolver"
+  ]
+}
